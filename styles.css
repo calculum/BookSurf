@@ -79,6 +79,7 @@ button[type="submit"]:hover {
 
 .col-3:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.7);
+    background-color: silver;
 }
 
 
